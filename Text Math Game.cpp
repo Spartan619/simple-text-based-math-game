@@ -1,4 +1,3 @@
-// Sulaimon Baki
 // Game Project 
 // 12/5/2019
 
